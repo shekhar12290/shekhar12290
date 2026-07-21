@@ -27,6 +27,71 @@
 ---
 
 ## 🌸 About Me
+<p align="center">
+
+# ⚔️ TECH ARSENAL
+
+</p>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java"/>
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+</td>
+
+<td align="center" width="220">
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</td>
+
+<td align="center">
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</td>
+
+<td align="center">
+
+### 🚀 Learning
+
+<img src="https://skillicons.dev/icons?i=docker,linux"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ```yaml
 Name      : Shekhar Kumar
