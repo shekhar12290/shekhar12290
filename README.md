@@ -132,6 +132,12 @@ Goal:
 
 ## ⚡ Current Status
 
+<h2 align="center">🔥 ACTIVITY MATRIX</h2>
+
+<p align="center">
+  <img src="./assets/activity.svg" width="95%">
+</p>
+
 - 🚀 Building Full Stack Projects
 - 📚 Solving DSA Daily
 - 💻 Learning System Design
