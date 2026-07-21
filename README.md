@@ -1,30 +1,58 @@
-# 👋 Hi, I'm Shekhar Kumar
+<div align="center">
 
-## 🚀 Full Stack Developer | C++ | React | IoT
+# シェカール・クマール
 
-Welcome to my GitHub Profile!
+# <span style="color:#ff1e1e">SHEKHAR KUMAR</span>
 
-### 💻 Tech Stack
+### ⚔️ Full Stack Developer • C++ • React • Node.js • IoT
 
-- C++
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- HTML
-- CSS
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Building+Modern+Web+Applications;Full+Stack+Developer;Problem+Solver;Always+Learning..." />
 
-### 📊 GitHub Stats
+</div>
 
-Coming Soon...
+---
 
-### 🚀 Featured Projects
+<div align="center">
 
-- Student Teacher Academic Management System
-- Rail-Road Traffic Management (IoT)
-- AI Plagiarism Checker
+### 「未来を創る」
 
-### 🌐 Connect
+> **"Building the future, one commit at a time."**
 
-- LinkedIn
-- LeetCode
+</div>
+
+---
+
+## 🌸 About Me
+
+```yaml
+Name      : Shekhar Kumar
+Location  : Bihar, India 🇮🇳
+Education : B.Tech CSE
+Role      : Full Stack Developer
+
+Currently Learning:
+  - React
+  - Node.js
+  - MongoDB
+  - DSA
+
+Goal:
+  Build software that creates real impact.
+```
+
+---
+
+## ⚡ Current Status
+
+- 🚀 Building Full Stack Projects
+- 📚 Solving DSA Daily
+- 💻 Learning System Design
+- 🌸 Exploring Japanese-inspired UI Design
+
+---
+
+<div align="center">
+
+## ☕ "Code. Learn. Repeat."
+
+</div>
