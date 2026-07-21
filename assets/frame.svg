@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1200"
+height="700"
+viewBox="0 0 1200 700">
+
+<rect width="1200" height="700"
+fill="#090909"/>
+
+<path
+d="M40 40
+L180 40
+L200 20
+L1000 20
+L1020 40
+L1160 40
+
+L1180 60
+
+L1180 640
+
+L1160 660
+
+L1020 660
+
+L1000 680
+
+L200 680
+
+L180 660
+
+L40 660
+
+L20 640
+
+L20 60
+
+Z"
+
+fill="none"
+stroke="#ff1e1e"
+stroke-width="3"/>
+
+</svg>
