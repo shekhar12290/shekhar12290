@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner">
+</p>
+
 <div align="center">
+
+# シェカール・クマール
+
+# SHEKHAR KUMAR
+
+### ⚔️ Full Stack Developer • C++ • React • Node.js • IoT<div align="center">
 
 # シェカール・クマール
 
