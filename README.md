@@ -6,12 +6,6 @@
 
 # シェカール・クマール
 
-# SHEKHAR KUMAR
-
-### ⚔️ Full Stack Developer • C++ • React • Node.js • IoT<div align="center">
-
-# シェカール・クマール
-
 # <span style="color:#ff1e1e">SHEKHAR KUMAR</span>
 
 ### ⚔️ Full Stack Developer • C++ • React • Node.js • IoT
