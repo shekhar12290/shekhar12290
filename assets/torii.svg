@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1200"
+height="120">
+
+<rect width="1200"
+height="120"
+fill="#090909"/>
+
+<text
+x="600"
+y="70"
+text-anchor="middle"
+fill="#ff1e1e"
+font-size="40">
+
+⛩
+
+</text>
+
+</svg>
