@@ -8,8 +8,11 @@
 <h2 align="center">⚡ SYSTEM STATUS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shekhar12290&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar12290&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=shekhar12290&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shekhar12290&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
