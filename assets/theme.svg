@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<!-- RED NEON -->
+
+<filter id="redGlow" x="-50%" y="-50%" width="200%" height="200%">
+
+<feGaussianBlur stdDeviation="4" result="blur"/>
+
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+
+</filter>
+
+<!-- DARK GLASS -->
+
+<filter id="glass">
+
+<feGaussianBlur stdDeviation="8"/>
+
+</filter>
+
+</defs>
+
+</svg>
