@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+
+<rect width="1200" height="420" rx="20" fill="#090909"/>
+
+<rect x="10" y="10" width="1180" height="400"
+stroke="#ff1e1e"
+stroke-width="2"
+fill="none"/>
+
+<text x="50" y="55"
+fill="#ff1e1e"
+font-size="28"
+font-family="Arial"
+font-weight="bold">
+
+⚡ F.R.I.D.A.Y SYSTEM STATUS
+
+</text>
+
+<line x1="50" y1="70" x2="1150" y2="70"
+stroke="#ff1e1e"/>
+
+<text x="70" y="120"
+fill="#ffffff"
+font-size="24">
+
+USER
+
+</text>
+
+<text x="250" y="120"
+fill="#ff1e1e"
+font-size="24"
+font-weight="bold">
+
+SHEKHAR KUMAR
+
+</text>
+
+<text x="70" y="170"
+fill="#ffffff"
+font-size="22">
+
+ROLE
+
+</text>
+
+<text x="250" y="170"
+fill="#ff1e1e"
+font-size="22">
+
+FULL STACK DEVELOPER
+
+</text>
+
+<text x="70" y="220"
+fill="#ffffff"
+font-size="22">
+
+STATUS
+
+</text>
+
+<text x="250" y="220"
+fill="#00ff66"
+font-size="22">
+
+ONLINE
+
+</text>
+
+<circle
+cx="920"
+cy="200"
+r="90"
+stroke="#ff1e1e"
+stroke-width="8"
+fill="none"/>
+
+<text
+x="875"
+y="215"
+fill="#ffffff"
+font-size="40"
+font-weight="bold">
+
+100%
+
+</text>
+
+<text
+x="835"
+y="255"
+fill="#ff1e1e"
+font-size="18">
+
+SYSTEM READY
+
+</text>
+
+<line x1="60" y1="300" x2="500" y2="300"
+stroke="#ff1e1e"/>
+
+<text
+x="70"
+y="340"
+fill="#ffffff"
+font-size="18">
+
+LANGUAGES
+
+</text>
+
+<text
+x="250"
+y="340"
+fill="#ff1e1e"
+font-size="18">
+
+C++ • JavaScript • Python
+
+</text>
+
+</svg>
