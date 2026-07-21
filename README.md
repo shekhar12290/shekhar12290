@@ -16,7 +16,9 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shekhar12290&theme=radical&hide_border=true"/>
+
+<img width="100%" src="./assets/hud.svg">
+
 </p>
 
 <div align="center">
